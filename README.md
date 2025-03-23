@@ -1,6 +1,6 @@
 # Michael Bennett | Professional Portfolio
 
-This repository hosts the code for my personal portfolio website, showcasing my work as a Software Developer and Security Specialist.
+This repository explains the code for creating my personal portfolio website, showcasing my work as a Software Developer and Security Specialist.
 
 ## 🚀 Live Website
 
